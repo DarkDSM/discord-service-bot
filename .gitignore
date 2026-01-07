@@ -1,0 +1,35 @@
+# Environnement Python
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Fichiers de données
+data/
+*.json
+
+# Fichiers d'environnement
+.env
+.env.local
+.env.*.local
+
+# Système d'exploitation
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Fichiers temporaires
+tmp/
+temp/
